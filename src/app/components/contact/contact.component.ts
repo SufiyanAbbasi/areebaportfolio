@@ -10,8 +10,8 @@ import { Component } from '@angular/core';
 })
 export class ContactComponent {
   contactItems = [
-    { name: 'Talha Abbasi', iconUrl: 'assets/images/link.svg', link: 'https://www.linkedin.com/in/talhaimtiaz999/' },
-    { name: '+92 348 9443688', iconUrl: 'assets/images/call.svg', link: '+92 348 9443688' },
-    { name: 'talhaimtiaz115@gmail.com', iconUrl: 'assets/images/email.svg', link: 'talhaimtiaz115@gmail.com' },
+    { name: 'Areeba Sajjad', iconUrl: 'assets/images/link.svg', link: 'https://www.linkedin.com/in/areeba-sajjad-13a66432b/' },
+    { name: '+92 331 5747723', iconUrl: 'assets/images/call.svg', link: '+92 348 9443688' },
+    { name: 'sajjadareeba2001@gmail.com', iconUrl: 'assets/images/email.svg', link: 'sajjadareeba2001@gmail.com' },
   ];
 }
